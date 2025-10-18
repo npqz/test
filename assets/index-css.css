@@ -90,7 +90,7 @@
 }
 
 .menu-scrollbar-thumb.svelte-fmmm4u.svelte-fmmm4u:hover {
-    background: #FFFF33;
+    background: #33a3ff;
     transform: translate(-50%) scale(1.08);
     transition: all .25s cubic-bezier(.165, .84, .44, 1);
     box-shadow: 0 2px 6px #005f96cc, 0 1px 3px #0030b4e6, 1.5px 2px 4px #001696bf, -1.5px 2px 4px #001696bf, 0 3px 8px #000982a6, inset 0 1px #fff6, inset 0 -1px #96960033, inset 1px 0 #ffffff4d, inset -1px 0 #96960033;
