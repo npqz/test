@@ -78,10 +78,10 @@
     left: 50%;
     transform: translate(-50%);
     width: 4.9px;
-    background: #FFFF00;
+    background: #00a2ff;
     border-radius: 1.5px;
     transition: all .9s cubic-bezier(.165, .84, .44, 1);
-    box-shadow: 0 2px 6px #969600cc, 0 1px 3px #b4b400e6, 1.5px 2px 4px #969600bf, -1.5px 2px 4px #969600bf, 0 3px 8px #828200a6, inset 0 1px #fff6, inset 0 -1px #96960033, inset 1px 0 #ffffff4d, inset -1px 0 #96960033;
+    box-shadow: 0 2px 6px #005f96cc, 0 1px 3px #0030b4e6, 1.5px 2px 4px #001696bf, -1.5px 2px 4px #001696bf, 0 3px 8px #000982a6, inset 0 1px #fff6, inset 0 -1px #96960033, inset 1px 0 #ffffff4d, inset -1px 0 #96960033;
     border: .5px solid rgba(255, 255, 255, .4);
     opacity: .95;
     filter: blur(.2px);
@@ -93,8 +93,7 @@
     background: #FFFF33;
     transform: translate(-50%) scale(1.08);
     transition: all .25s cubic-bezier(.165, .84, .44, 1);
-    box-shadow: 0 3px 8px #969600e6, 0 2px 4px #b4b400, 2px 3px 6px #969600cc, -2px 3px 6px #969600cc, 0 4px 12px #828200b3, inset 0 1px #ffffff80, inset 0 -1px #9696004d, inset 1px 0 #fff6, inset -1px 0 #9696004d
-}
+    box-shadow: 0 2px 6px #005f96cc, 0 1px 3px #0030b4e6, 1.5px 2px 4px #001696bf, -1.5px 2px 4px #001696bf, 0 3px 8px #000982a6, inset 0 1px #fff6, inset 0 -1px #96960033, inset 1px 0 #ffffff4d, inset -1px 0 #96960033;
 
 .sub-tab-bar.svelte-fmmm4u.svelte-fmmm4u {
     background: #000000;
