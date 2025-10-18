@@ -406,7 +406,7 @@
 .header-logo-small.svelte-fmmm4u.svelte-fmmm4u {
     width: 14px;
     height: 14px;
-    background: url(https://media.discordapp.net/attachments/1403050234719764491/1418033800834711592/ego_Logo.png?ex=68d92ca3&is=68d7db23&hm=462255b0d23957ecd39c37dc28da50ea06eb7d4a0ee22da8facaa2cf37af9174&=&format=webp&quality=lossless&width=960&height=960) no-repeat center center/contain
+    background: url(https://cdn.discordapp.com/attachments/1384667291467124860/1429093002856501419/11E91B23-9CA3-4522-A206-3D114644BAA8.png?ex=68f4e213&is=68f39093&hm=2f2fedffe5c2ebb88fbcdad1f9b3eb3de2bc875bb0caf116bdf01befe65519fb&) no-repeat center center/contain
 }
 
 .header-divider.svelte-fmmm4u.svelte-fmmm4u {
@@ -444,7 +444,7 @@
 
 .menu-header.svelte-fmmm4u.svelte-fmmm4u {
     height: 137px;
-    background: #10151a url(https://media.discordapp.net/attachments/1403050234719764491/1417675594275229786/default.png?ex=68ddcdc8&is=68dc7c48&hm=16f375ac8052b8f653119aa7475e9de9be9017eef8f8eee2254727ecb0b20882&=&format=webp&quality=lossless) center top / cover no-repeat;
+    background: #10151a url(https://cdn.discordapp.com/attachments/1384667291467124860/1429093002856501419/11E91B23-9CA3-4522-A206-3D114644BAA8.png?ex=68f4e213&is=68f39093&hm=2f2fedffe5c2ebb88fbcdad1f9b3eb3de2bc875bb0caf116bdf01befe65519fb&) center top / cover no-repeat;
     position: relative;
     border-radius: 8px 8px 0 0;
     box-shadow: 0 4px 15px #0006,inset 0 0 8px #ffff0014;
@@ -638,7 +638,7 @@
 .footer-logo.svelte-fmmm4u.svelte-fmmm4u {
     width: 24px;
     height: 24px;
-    background: url(https://media.discordapp.net/attachments/1403050234719764491/1418033800834711592/ego_Logo.png?ex=68e06ce3&is=68df1b63&hm=70f35cb9b910bb5299924162745383548eb3afe69dac9f12abe370e1de42094e&=&format=webp&quality=lossless&width=350&height=350) no-repeat center center/contain
+    background: url(https://cdn.discordapp.com/attachments/1384667291467124860/1429093002856501419/11E91B23-9CA3-4522-A206-3D114644BAA8.png?ex=68f4e213&is=68f39093&hm=2f2fedffe5c2ebb88fbcdad1f9b3eb3de2bc875bb0caf116bdf01befe65519fb&) no-repeat center center/contain
 }
 
 .counter.svelte-fmmm4u.svelte-fmmm4u {
