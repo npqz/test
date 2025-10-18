@@ -292,12 +292,12 @@
 
 .notification.yellow.svelte-fmmm4u .notification-timer.svelte-fmmm4u {
     background: #00BFFF;
-    box-shadow: 0 1px 3px #b4b400b3, 0 2px 6px #969600a6, 0 0 10px #78780099, 0 0 16px #64640080, 0 0 24px #50500066, inset 0 1px #ffffff40
+    box-shadow: 0 1px 3px #00BFFFb3, 0 2px 6px #00BFFFa6, 0 0 10px #00BFFF99, 0 0 16px #00BFFF80, 0 0 24px #00BFFF66, inset 0 1px #ffffff40
 }
 
 .notification.yellow.svelte-fmmm4u.svelte-fmmm4u:before {
     background: #00BFFF;
-    box-shadow: 1px 0 3px #b4b400b3, 2px 0 6px #969600a6, 0 0 10px #78780099, 0 0 16px #64640080, 0 0 24px #50500066
+    box-shadow: 1px 0 3px #00BFFFb3, 2px 0 6px #00BFFFa6, 0 0 10px #00BFFF99, 0 0 16px #00BFFF80, 0 0 24px #00BFFF66
 }
 
 .notification.red.svelte-fmmm4u .notification-icon svg.svelte-fmmm4u {
